@@ -5,7 +5,7 @@ Details about live projects, tasks and items can be found at the [A&I Project sh
 ## Live Projects
 
 ### [ServiceNow Worker](https://github.com/Mackenzie-Health/servicenow-core)
-Service worker hosted to handle ServiceNow requests through Copilot interactions.
+Listener worker hosted to handle ServiceNow requests through Copilot interactions.
 
 ### [Walker 2](https://github.com/Mackenzie-Health/Walker2)
 Hosted service for internal process scheduling and orchestration; accessed by Application and Integration.
