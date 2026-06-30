@@ -1,23 +1,16 @@
 # Mackenzie Health Profile
 
-Details about live projects, tasks and items can be found at the [A&I Project sheet](https://mackenziehealthcanada.sharepoint.com/:x:/r/sites/EVPCAO/ICAT/TechnologyServices/ApplicationAndIntegration/_layouts/15/Doc.aspx?sourcedoc=%7B9641E511-8053-4F37-B028-D2F2ECAC117F%7D&file=A%26I%20Projects.xlsx&action=default&mobileredirect=true).
+Business solutions developed using C# and Python to manage service integration to manage inter-service communication as well as attached automation and management.  
 
 ## Live Projects
 
-### [ServiceNow Worker](https://github.com/Mackenzie-Health/servicenow-core)
-Listener worker hosted to handle ServiceNow requests through Copilot interactions.
+| Title | Server | Type | Description |
+| --- | --- | --- | --- |
+| [Handsify](https://github.com/Mackenzie-Health/handsify/) | MHSAISQLRTLS | Web Application | Hand-wash station manager. |
+| [Badgehub V2](https://github.com/Mackenzie-Health/BadgeHub-V2) | MHSAISQLRTLS | Web Application | Badge inventory management system; accessed by Security and Application and Integration. |
+| [Badgeify](https://github.com/Mackenzie-Health/badgeify) | MHSAISQLRTLS | Web Application | User onboard sanitizer and creation automation. |
+| [ServiceNow Service Worker](https://github.com/Mackenzie-Health/servicenow-core) | MHSAISQLRTLS | Windows Service | ServiceNow request handler integrated with Copilot. |
+| [PHI Redactor Service](https://github.com/Mackenzie-Health/PHI-copilot) | MHSAISQLRTLS | Windows Service | Content redactor primarily for ServiceNow [ServiceNow Service Worker](https://github.com/Mackenzie-Health/servicenow-core) | 
+| [Walker 2](https://github.com/Mackenzie-Health/Walker2) | MHSAISQLHILROM |  | Hosted service for internal process scheduling and orchestration; accessed by Application and Integration. |
+| [Sally](https://github.com/Mackenzie-Health/sally-API) | MHSAISQLHILROM | Web Service | Private API space for Mackenzie Health business applications. |
 
-### [Walker 2](https://github.com/Mackenzie-Health/Walker2)
-Hosted service for internal process scheduling and orchestration; accessed by Application and Integration.
-
-### [Badgehub V2](https://github.com/Mackenzie-Health/BadgeHub-V2)
-Badge management system for Mackenzie Health staff and visitors; accessed by Security and Application and Integration.
-
-### [Sally](https://github.com/Mackenzie-Health/sally-API)
-Private API space for Mackenzie Health business applications.
-
-### [Handsify](https://github.com/Mackenzie-Health/handsify/)
-Hand-wash station manager.
-
-### [Badgeify](https://github.com/Mackenzie-Health/badgeify)
-User onboard sanitizer and creation automation.
