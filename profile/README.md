@@ -1,6 +1,6 @@
 # Mackenzie Health Profile
 
-Business solutions developed using C# and Python to manage service integration to achieve inter-service communication as well as handle automation and management.  
+Business solutions developed using C# and Python to manage service integration to achieve inter-service communication. Includes additional applications that optimize single-service management through automation or overview.
 
 ## Live Projects
 
