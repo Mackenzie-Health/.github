@@ -16,7 +16,7 @@ Business solutions developed using C# and Python to manage service integration t
 | [Sally](https://github.com/Mackenzie-Health/sally-API) | MHSAISQLHILROM | Web Service | Private API space for Mackenzie Health business applications. |
 
 ## Custom Libraries
-> *Located on a local NuGet folder exclusive between servers*
+> *Located on a local NuGet folder exclusive between servers.*
 
 | Title | Server | Description |
 | --- | --- | --- |
