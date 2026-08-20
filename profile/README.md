@@ -22,3 +22,4 @@ Business solutions developed using C# and Python to manage service integration t
 | --- | --- | --- |
 | [ActiveDirectory](https://github.com/Mackenzie-Health/mh-directory) | MHSAISQLRTLS | Active Directory lookup service curated to the Mackenzie Health environment. |
 | [ServiceNow](https://github.com/Mackenzie-Health/mh-servicenow) | MHSAISQLRTLS | ServiceNow incident and user service. |
+| [Redaction](https://github.com/Mackenzie-Health/mh-redaction) | MHSAISQLRTLS | PHI redactor service that works alongside the locally hosted [PHI Redactor](https://github.com/Mackenzie-Health/PHI-copilot). |
