@@ -16,7 +16,8 @@ Business solutions developed using C# and Python to manage service integration t
 | [Sally](https://github.com/Mackenzie-Health/sally-API) | MHSAISQLHILROM | Web Service | Private API space for Mackenzie Health business applications. |
 
 ## Custom Libraries
+> *Located on a local NuGet folder exclusive between servers*
 
-| Title | Description |
-| --- | --- |
-| [ActiveDirectory](https://github.com/Mackenzie-Health/mh-directory) | Active Directory lookup service curated to the Mackenzie Health environemnt. |
+| Title | Server | Description |
+| --- | --- | --- |
+| [ActiveDirectory](https://github.com/Mackenzie-Health/mh-directory) | MHSAISQLRTLS | Active Directory lookup service curated to the Mackenzie Health environemnt. |
