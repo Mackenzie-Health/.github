@@ -20,4 +20,4 @@ Business solutions developed using C# and Python to manage service integration t
 
 | Title | Server | Description |
 | --- | --- | --- |
-| [ActiveDirectory](https://github.com/Mackenzie-Health/mh-directory) | MHSAISQLRTLS | Active Directory lookup service curated to the Mackenzie Health environemnt. |
+| [ActiveDirectory](https://github.com/Mackenzie-Health/mh-directory) | MHSAISQLRTLS | Active Directory lookup service curated to the Mackenzie Health environment. |
