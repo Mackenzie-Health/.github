@@ -18,4 +18,4 @@ Business solutions developed using C# and Python to manage service integration t
 ## Custom Libraries
 
 | Title | Description |
-| --- | --- | --- | --- |
+| [ActiveDirectory](https://github.com/Mackenzie-Health/mh-directory) | Active Directory lookup service curated to the Mackenzie Health environemnt. |
