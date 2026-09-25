@@ -27,3 +27,4 @@ Business solutions developed using C# and Python to manage service integration t
 | [Authentication](https://github.com/Mackenzie-Health/mh-authentication) | MHSAISQLRTLS | Authentication service used to validate incoming users based on the authorization method. |
 | [Teams](https://github.com/Mackenzie-Health/mh-teams) | MHSAISQLRTLS | Teams communication wrapper built around the Azure Graph API. |
 | [Outlook](https://github.com/Mackenzie-Health/mh-outlook) | MHSAISQLRTLS | Outlook communication wrapper built around the Azure Graph API. |
+| [Webhooks](https://github.com/Mackenzie-Health/mh-webhook) | MHSAISQLRTLS | Webhook and HTTP caller service built to securely set up network communication infrastructure. |
