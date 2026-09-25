@@ -25,3 +25,5 @@ Business solutions developed using C# and Python to manage service integration t
 | [Redaction](https://github.com/Mackenzie-Health/mh-redaction) | MHSAISQLRTLS | PHI redactor service that works alongside the locally hosted [PHI Redactor](https://github.com/Mackenzie-Health/PHI-copilot). |
 | [Data](https://github.com/Mackenzie-Health/mh-data) | MHSAISQLRTLS | Data transaction service that communicates to a given server. |
 | [Authentication](https://github.com/Mackenzie-Health/mh-authentication) | MHSAISQLRTLS | Authentication service used to validate incoming users based on the authorization method. |
+| [Teams](https://github.com/Mackenzie-Health/mh-teams) | MHSAISQLRTLS | Teams communication wrapper built around the Azure Graph API. |
+| [Outlook](https://github.com/Mackenzie-Health/mh-outlook) | MHSAISQLRTLS | Outlook communication wrapper built around the Azure Graph API. |
